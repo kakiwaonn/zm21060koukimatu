@@ -1,2 +1,2 @@
-function gazou1(){document.getElementById('rennsyuui').src='';}
-function gazou2(){document.getElementById('rennsyuu2').src='';}
+function irasuto1(){document.getElementById('irasuto').src='image/イラスト.png';}
+function irasuto2(){document.getElementById('irasuto').src='';}
