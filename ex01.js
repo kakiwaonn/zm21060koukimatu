@@ -1,5 +1,5 @@
-function gazou1(){document.getElementById('rennsyuui').src='image/kisorenn1.jpg';}
-function gazou2(){document.getElementById('rennsyuu2').src='image/kisorenn4.jpg';}
+function rennsyuu1(){document.getElementById('rennsyuu').src='image/kisorenn1.jpg';}
+function rennsyuu2(){document.getElementById('rennsyuu').src='image/kisorenn4.jpg';}
 
 
 function gazou1(){document.getElementById('neko').src='image/animal_cat_kowai.png';}
