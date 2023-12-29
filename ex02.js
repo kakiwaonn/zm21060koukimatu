@@ -1,2 +1,2 @@
-function gazou1(){document.getElementById('rennsyuui').src='';}
-function gazou2(){document.getElementById('rennsyuu2').src='';}
+function kuukannhako1(){document.getElementById('kuukannhako').src='image/空間箱1.jpg';}
+function kuukannhako2(){document.getElementById('kuukannhako').src='';}
