@@ -6,3 +6,5 @@ function irasuto2(){document.getElementById('irasuto').img src='image/イラス�
 function irasuto1(){document.getElementById('irasuto').src='image/イラスト2.png' width="1000" height="550";}
 function irasuto2(){document.getElementById('irasuto').src='image/イラスト.png' width="500" height="750";}
 */
+
+
