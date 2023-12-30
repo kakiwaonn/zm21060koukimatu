@@ -11,4 +11,3 @@ function irasuto2(){document.getElementById('irasuto').src='image/イラスト.p
 
 
 
-
