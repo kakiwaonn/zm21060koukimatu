@@ -7,3 +7,8 @@ function irasuto1(){document.getElementById('irasuto').src='image/イラスト2.
 function irasuto2(){document.getElementById('irasuto').src='image/イラスト.png' width="500" height="750";}
 */
 
+
+
+
+
+
